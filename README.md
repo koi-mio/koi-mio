@@ -209,7 +209,3 @@
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpanchbhai&show_icons=true&locale=en" alt="pavanpanchbhai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanpanchbhai&" alt="pavanpanchbhai" /></p>
-
