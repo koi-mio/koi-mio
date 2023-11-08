@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan Panchbhai</h1>
+<h1 align="center">Hi 👋, I'm banty de</h1>
 <h3 align="center">A passionateA passionate Full Stack Developer from  India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpanchbhai&label=Profile%20views&color=0e75b6&style=flat" alt="pavanpanchbhai" /> </p>
@@ -208,8 +208,4 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="25" alt="discord logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpanchbhai&show_icons=true&locale=en&layout=compact" alt="pavanpanchbhai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpanchbhai&show_icons=true&locale=en" alt="pavanpanchbhai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanpanchbhai&" alt="pavanpanchbhai" /></p>
