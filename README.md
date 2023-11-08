@@ -1,24 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm banty de</h1>
+<h3 align="center">A passionateA passionate Full Stack Developer from  India</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpanchbhai&label=Profile%20views&color=0e75b6&style=flat" alt="pavanpanchbhai" /> </p>
 
-<p align="left">My name is Pavan Panchbhai and I'm a Full-stack developer from India.</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanpanchbhai" alt="pavanpanchbhai" /></a> </p>
 
-###
+<p align="left"> <a href="https://twitter.com/bdeniyel" target="blank"><img src="https://img.shields.io/twitter/follow/bdeniyel?logo=twitter&style=for-the-badge" alt="bdeniyel" /></a> </p>
 
-<h2 align="left">About me</h2>
+- 🔭 I’m currently working on [Youtube-Clone](https://github.com/pavanpanchbhai/01-youtube-clone-in-recat.js.git)
 
-###
+- 🌱 I’m currently learning **Full Stack Development, Next.js , MongoDB , React.js , Java DSA, Node.js**
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning Full-Stack Development, Next.js, React.js, Vue.js, MongoDB, and Java DSA.<br>🎯 Goals: Earn dollars 💰💵💴💹, live in a cold place ❄️, and go on a world tour 🌍🗺️.<br>🎲 Also, I enjoy going to the gym and listening to book summaries.</p>
+- 👯 I’m looking to collaborate on [Cryptocurrency-Analysis](https://github.com/pavanpanchbhai/Cryptocurrency-Analysis.git)
 
-###
+- 🤝 I’m looking for help with [Nextfilx-Clone](https://github.com/pavanpanchbhai/01-nextfilx-clone.git)
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/pavanpanchbhai](https://github.com/pavanpanchbhai)
 
-###
+- 📝 I regularly write articles on [https://www.linkedin.com/in/pavanpanchbhai/](https://www.linkedin.com/in/pavanpanchbhai/)
+
+- 💬 Ask me about **Java DSA, Python AI/ML, JavaScript , React.js , Next.js , Vue.js , Spring , Node.js**
+
+- 📫 How to reach me **bantydeniyel25@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nJIQxlqmm_8KXvcPPpJyDDergo4xwBl-/view?usp=sharing](https://drive.google.com/file/d/1nJIQxlqmm_8KXvcPPpJyDDergo4xwBl-/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/bdeniyel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bdeniyel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pavanpanchbhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavanpanchbhai" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bantydeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bantydeni" height="30" width="40" /></a>
+</p>
 
 <h2 align="left">I code with</h2>
 
@@ -186,8 +198,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" height="40" alt="doctrine logo"  />
 </div>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/pavanpanchbhai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
@@ -198,15 +208,8 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="25" alt="discord logo"  />
 </div>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpanchbhai&show_icons=true&locale=en&layout=compact" alt="pavanpanchbhai" /></p>
 
-<img src="https://raw.githubusercontent.com/pavanpanchbhai/pavanpanchbhai/output/snake.svg" alt="Snake animation" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpanchbhai&show_icons=true&locale=en" alt="pavanpanchbhai" /></p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpanchbhai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=pavanpanchbhai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanpanchbhai&" alt="pavanpanchbhai" /></p>
